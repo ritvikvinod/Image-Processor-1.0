@@ -1,0 +1,15 @@
+load ManhattanOriginal.png
+dither
+save ManhattanDithering.png
+load SceneryOriginal.jpg
+greyscale
+save ManhattanGreyscale.png
+load SceneryOriginal.jpg
+sepia
+save ManhattanSepia.png
+checkerboard 50
+save CheckerBoard50.png
+flag-france 300
+save FranceFlag.png
+rainbow-horizontal 50 300
+save RainbowHorizontal.png

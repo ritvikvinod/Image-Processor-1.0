@@ -1,0 +1,3 @@
+load ForestOriginal.jpg
+dither
+save what1.png

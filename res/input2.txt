@@ -1,0 +1,10 @@
+load SceneryOriginal.jpg
+mosaic 15000
+save SceneryMosaicSeed-15000.png
+load SceneryOriginal.jpg
+blur
+blur
+save SceneryBlurTwice.png
+load SceneryOriginal.jpg
+sharpen
+save ScenerySharpen.png

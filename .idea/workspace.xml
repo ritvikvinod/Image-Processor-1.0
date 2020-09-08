@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="51d0ba63-407a-49df-a0ff-1c93f7305987" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controller/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controller/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controller/ControllerGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controller/ControllerGUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/GUIView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/GUIView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/View.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1XHSfuRKanmOwPpJV1XJEBKvoZ8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1575580848275" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Application.Unnamed">
+    <configuration name="Batch" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Driver" />
+      <module name="Assignment9" />
+      <option name="PROGRAM_PARAMETERS" value="-script input.txt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Driver" />
+      <module name="Assignment9" />
+      <option name="PROGRAM_PARAMETERS" value="-interactive" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Unnamed" />
+      <item itemvalue="Application.Batch" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="51d0ba63-407a-49df-a0ff-1c93f7305987" name="Default Changelist" comment="" />
+      <created>1580701633416</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580701633416</updated>
+      <workItem from="1580701634613" duration="455000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
